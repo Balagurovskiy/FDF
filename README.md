@@ -1,2 +1,2 @@
 # FDF
-ontro to graph (minilibx used)
+intro to 3d graph (minilibx used)
